@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 * 👂 My name is Thiago
 * 🔭 I’m currently working on data science
 * 🌱 I’m currently learning New Relic One 
